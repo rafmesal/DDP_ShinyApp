@@ -1,0 +1,38 @@
+---
+title: "DDP-Project ShinyApp"
+author: "Rafael Mejia"
+date: "6/7/2019"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Simple customer stats description
+
+This application performs a simple descriptive analysis of customer data of a company, among which are:
+
+1. **Age:** Age of the clients interviewed.
+2. **Gender:** Sex of the clients surveyed.
+3. **Annual Income:** Value of the annual income of the client, reduced to thousands.
+4. **Expense score:** Score of customer expenses in the company.
+
+
+## The ShinyApp output
+
+- A very basic statistic description
+- An interactive boxplot
+- An interactive Bubble chart
+- A complete data table of full dataset
+
+![](img/1.png)
+
+
+## ShinyApp objective
+
+The ShinyApp objective is to serve for a fast view ofcustomer data, before to start a complete segmentation analysis.
+
+Link to ShinyApp:
+https://rafmesal.shinyapps.io/Customer_Description/
+
