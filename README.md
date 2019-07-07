@@ -1,10 +1,4 @@
 # DDP_ShinyApp
----
-title: "DDP-Project ShinyApp"
-author: "Rafael Mejia"
-date: "6/7/2019"
-output: ioslides_presentation
----
 
 ## Simple customer stats description
 
@@ -23,7 +17,7 @@ This application performs a simple descriptive analysis of customer data of a co
 - An interactive Bubble chart
 - A complete data table of full dataset
 
-![](img/1.png)
+![](1.png)
 
 
 ## ShinyApp objective
